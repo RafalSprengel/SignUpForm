@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/SignUpForm/static/css/main.35bd3afc.chunk.css",
-    "main.js": "/SignUpForm/static/js/main.7f00d75f.chunk.js",
-    "main.js.map": "/SignUpForm/static/js/main.7f00d75f.chunk.js.map",
-    "runtime-main.js": "/SignUpForm/static/js/runtime-main.d05e27b1.js",
-    "runtime-main.js.map": "/SignUpForm/static/js/runtime-main.d05e27b1.js.map",
-    "static/js/2.dbddd357.chunk.js": "/SignUpForm/static/js/2.dbddd357.chunk.js",
-    "static/js/2.dbddd357.chunk.js.map": "/SignUpForm/static/js/2.dbddd357.chunk.js.map",
-    "index.html": "/SignUpForm/index.html",
-    "precache-manifest.156ce77775738cd7725f77c06f1c0d8c.js": "/SignUpForm/precache-manifest.156ce77775738cd7725f77c06f1c0d8c.js",
-    "service-worker.js": "/SignUpForm/service-worker.js",
-    "static/css/main.35bd3afc.chunk.css.map": "/SignUpForm/static/css/main.35bd3afc.chunk.css.map"
+    "main.css": "/react-SignUpForm/static/css/main.35bd3afc.chunk.css",
+    "main.js": "/react-SignUpForm/static/js/main.3ec7de49.chunk.js",
+    "main.js.map": "/react-SignUpForm/static/js/main.3ec7de49.chunk.js.map",
+    "runtime-main.js": "/react-SignUpForm/static/js/runtime-main.ff9c9aa5.js",
+    "runtime-main.js.map": "/react-SignUpForm/static/js/runtime-main.ff9c9aa5.js.map",
+    "static/js/2.dbddd357.chunk.js": "/react-SignUpForm/static/js/2.dbddd357.chunk.js",
+    "static/js/2.dbddd357.chunk.js.map": "/react-SignUpForm/static/js/2.dbddd357.chunk.js.map",
+    "index.html": "/react-SignUpForm/index.html",
+    "precache-manifest.3bb957ac375206687c73951b4a6b615f.js": "/react-SignUpForm/precache-manifest.3bb957ac375206687c73951b4a6b615f.js",
+    "service-worker.js": "/react-SignUpForm/service-worker.js",
+    "static/css/main.35bd3afc.chunk.css.map": "/react-SignUpForm/static/css/main.35bd3afc.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d05e27b1.js",
+    "static/js/runtime-main.ff9c9aa5.js",
     "static/js/2.dbddd357.chunk.js",
     "static/css/main.35bd3afc.chunk.css",
-    "static/js/main.7f00d75f.chunk.js"
+    "static/js/main.3ec7de49.chunk.js"
   ]
 }
