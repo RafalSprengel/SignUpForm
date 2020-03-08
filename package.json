@@ -1,13 +1,17 @@
 {
+  "homepage": "https://rafalsprengel.github.io/SignUpForm/",
   "name": "validation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "3.2.0"
   },
   "scripts": {
+    "predeploy": "npm run bulid",
+    "deploy": "gh-pages -d bulid",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
