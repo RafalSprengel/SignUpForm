@@ -1,5 +1,5 @@
 ## General info
-Sign Up form, with validation.
+Sign Up form with validation.
 
 ## Features:
 * Validation
